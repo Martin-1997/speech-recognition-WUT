@@ -3,3 +3,7 @@ Speech recognition project for the Image and Speech recognition class at Warsaw 
 
 
 Topic: Voice-based gender identification
+
+
+Alternative data sources:
+https://commonvoice.mozilla.org/en/datasets
